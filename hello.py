@@ -104,6 +104,7 @@ print(np.where(arr1>5, 0, arr1)) #if the condition is true, then replace the val
 '''
 
 '''
+print("hello")
 print(np.random.rand())
 print(np.random.rand(2,3))
 print(np.random.randint(1,10))
