@@ -19,4 +19,4 @@ jobs:
           python-version: "3.12"
 
       - name: Run Python File
-        run: python hello.py
+        run: python hackerearth.py
